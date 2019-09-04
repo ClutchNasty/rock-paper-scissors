@@ -1,0 +1,20 @@
+.choice {
+  height: 400px;
+  width:  400px;
+  border: 10px black;
+  cursor: pointer;
+}
+
+.pape {
+  height: 400px;
+  width:  400px;
+  border: 10px black;
+  cursor: pointer;
+}
+
+.cut {
+  height: 400px;
+  width:  400px;
+  border: 10px black;
+  cursor: pointer;
+}
